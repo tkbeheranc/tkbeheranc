@@ -53,9 +53,9 @@ Text summary only — no code is published here.
 
 - "Architecture Principles for Enterprise Software and Mobile Applications" (book chapter)
 - "The Art of Breaking Down: Mastering Microservice Architecture and Data Modeling Strategy" (book chapter)
-- "Root Cause Analysis Bot Using Machine Learning Techniques"
-- "Master Data Management Using ML Techniques"
-- "How Blockchain Solves Supply Chain Problems using RFID Techniques"
+- ["Root Cause Analysis Bot Using Machine Learning Techniques"](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21588159.v3)
+- ["Master Data Management Using ML Techniques"](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21818040.v1)
+- ["How Blockchain Solves Supply Chain Problems using RFID Techniques"](https://ssrn.com/abstract=4287240)
 
 ## Awards
 
