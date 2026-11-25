@@ -30,15 +30,16 @@ A production Alexa skill — **27 intents, 9 groups**. Odia-first, with a custom
 
 Text summary only — no code is published here.
 
-### Agentic AI — 7
+### Agentic AI — 8
 
 - **langchain-ai/langgraph #5225** — Default value of state variable not working with reducer function. Assignment ask + solution summary posted (Nov 5; follow-up Nov 16). Awaiting maintainer assignment. [comment](https://github.com/langchain-ai/langgraph/issues/5225#issuecomment-6921835954)
 - **langchain-ai/langgraph #9607** — SQLite store integer filters return adjacent values above 2**53. Substantive ask posted (Nov 5; follow-up Nov 16). Awaiting maintainer assignment. [comment](https://github.com/langchain-ai/langgraph/issues/9607#issuecomment-6921836785)
 - **langchain-ai/langgraph #9561** — checkpoint-sqlite setup() guard catches std-lib sqlite3.OperationalError only, breaks non-stdlib drivers. Fix proposed + reviewer offer posted (Nov 5; Nov 16). Awaiting maintainer assignment. [comment](https://github.com/langchain-ai/langgraph/issues/9561#issuecomment-6921857695)
 - **langchain-ai/langgraph #9176** — StateGraph._is_field_binop rejects valid reducers. Substantive ask + reviewer offer posted (Nov 5; Nov 16). Awaiting maintainer assignment. [comment](https://github.com/langchain-ai/langgraph/issues/9176#issuecomment-6921858974)
 - **langchain-ai/langgraph #2555** — Using Pydantic state with aliased fields. Full review posted (Nov 16); maintainer follow-up question open. [comment](https://github.com/langchain-ai/langgraph/issues/2555#issuecomment-6927053748)
-- **quarkiverse/quarkus-langchain4j #1331** — Align configuration options for all embedding stores. Assignment request posted Nov 21 ([comment 7066658414](https://github.com/quarkiverse/quarkus-langchain4j/issues/1331#issuecomment-7066658414)). Awaiting maintainer assignment.
+- **quarkiverse/quarkus-langchain4j #1331** — Align configuration options for all embedding stores. Assignment request posted Nov 21; docs-only host/port clarification proposed Nov 23, maintainer go-ahead received Nov 24 ([comment 7135829285](https://github.com/quarkiverse/quarkus-langchain4j/issues/1331#issuecomment-7135829285)). Docs-only PR to follow.
 - **Dev.to — RAG under load (Ayush Singh)** — Comment on whether to stop or finish a stream when Groq holds the quota: the refund decides it. Posted Nov 22, live. [comment](https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm#comment-3m40e)
+- **Stack Overflow — LangGraph tool-calling with Groq** — Answer diagnosing a tool-calling failure: the model calls the tool by the wrong name. Posted Nov 23, live. [answer](https://stackoverflow.com/questions/79896070/agentic-rag-tool-calling-issue-groq-langchain-agent-fails-with-tool-use-faile/80018390#80018390)
 
 ### Java & Spring — 2
 
